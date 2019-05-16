@@ -1,0 +1,8 @@
+Joe Miller 21 1000
+Sara Evans 23 900
+Bill Murray 17 670
+Bob Vance 18 1200
+Billy Hillman 24 1400
+Harry Connick 23 1150
+Mary Hartman 19 1000
+
